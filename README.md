@@ -1,6 +1,6 @@
 ## Olá, sou o Edu! 👋
-- Atualmente faço um curso de HTML, CSS e PHP.
-- Estou estudando outras linguagens por contra própria no momento
+- Tenho conhecimentos intermediario em HTML, CSS e PHP.
+- Estou estudando outras linguagens através de cursos pela Udemy.
 <div align="center">
   <a href="https://github.com/edusribeiro">
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=edusribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
