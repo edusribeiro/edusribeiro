@@ -9,7 +9,6 @@
   <img align="center" alt="Edu-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Edu-GIT" height="30  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
-  <img align="right" alt="Edu-pic" height="150" style="border-radius:30px" src="https://scontent.fpet4-1.fna.fbcdn.net/v/t31.18172-8/966267_140080592854476_594265923_o.jpg?_nc_cat=104&ccb=1-7&_nc_sid=19026a&_nc_ohc=bu1DD3SqixkAX924vKZ&_nc_ht=scontent.fpet4-1.fna&oh=00_AT9pXqq7tqOjvNNTTf1zZx7vB97t-N3U_xaNvi32npcfNg&oe=62BA20F0">
 </div>
 <hr />
 <div> 
